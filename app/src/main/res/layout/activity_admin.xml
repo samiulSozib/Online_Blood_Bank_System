@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    android:background="#f9f1f1"
+    tools:context=".AdminActivity">
+
+
+    <EditText
+        android:id="@+id/admin_code_id"
+        android:hint="Enter Admin Code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/admin_code_button"
+        android:text="Enter"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:background="@drawable/button_design"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_privacy"
+            android:title="Privacy"
+            />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_about_us"
+            android:title="About_us"
+            />
+
+        <item
+            android:id="@+id/nav_develop"
+            android:icon="@drawable/ic_developer"
+            android:title="Developed By"
+            />
+
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_key"
+            android:title="Change Password"
+            />
+
+        <item
+            android:id="@+id/nav_deactive_account"
+            android:icon="@drawable/ic_deactive"
+            android:title="Deactivate Account"
+            />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_log_out"
+            android:title="Log Out" />
+
+    </group>
+
+    <item android:title="Communication">
+
+        <menu>
+
+
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/ic_contact"
+                android:title="Contact Us"
+                />
+
+
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483130383471",
+    "firebase_url": "https://online-blood-bank-system-7271b.firebaseio.com",
+    "project_id": "online-blood-bank-system-7271b",
+    "storage_bucket": "online-blood-bank-system-7271b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483130383471:android:c3094ca8bac2f19114419a",
+        "android_client_info": {
+          "package_name": "com.example.onlinebloodbanksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483130383471-mr8piijrrpknpf8t97rk7aku1e052sl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinebloodbanksystem",
+            "certificate_hash": "054b55930944fd55c74d21276791b24b3199222d"
+          }
+        },
+        {
+          "client_id": "483130383471-3pm55e68kreijo2n2bbsn7pvmle307ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr9cGGO1G0ZWkcQBdr5vQVZMfTZ1rfEiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483130383471-3pm55e68kreijo2n2bbsn7pvmle307ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
